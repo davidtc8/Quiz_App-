@@ -1,3 +1,5 @@
+# This code manage the questions from the API
+
 import html
 
 class QuizBrain:
